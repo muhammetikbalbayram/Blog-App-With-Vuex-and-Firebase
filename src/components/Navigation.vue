@@ -72,9 +72,10 @@ export default {
       font-weight: 500 ;
       padding: 0 8px;
       transition: 0.3 s color ease;
-    }
-    &:hover{
-      color: #1eb8b8;
+
+      &:hover{
+        color: #1eb8b8;
+      }
     }
   }
   nav{
