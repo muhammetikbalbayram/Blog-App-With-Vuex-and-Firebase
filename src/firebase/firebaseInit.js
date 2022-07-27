@@ -2,7 +2,7 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-    piKey: "AIzaSyB2FRUNL-68ohZLFKeEvafJnDJGg1XUVLI",
+    apiKey: "AIzaSyB2FRUNL-68ohZLFKeEvafJnDJGg1XUVLI",
     authDomain: "blog-app-with-vuex.firebaseapp.com",
     projectId: "blog-app-with-vuex",
     storageBucket: "blog-app-with-vuex.appspot.com",
