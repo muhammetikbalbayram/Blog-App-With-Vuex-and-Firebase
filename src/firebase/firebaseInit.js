@@ -7,7 +7,7 @@ const firebaseConfig = {
     projectId: "blog-app-with-vuex",
     storageBucket: "blog-app-with-vuex.appspot.com",
     messagingSenderId: "741257437398",
-    appId: "1:741257437398:web:ef0fbdd594887f21a4a977"
+    appId: "1:741257437398:web:ba66504ec5bc17cca4a977"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
